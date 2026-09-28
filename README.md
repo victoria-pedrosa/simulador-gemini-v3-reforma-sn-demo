@@ -1,6 +1,6 @@
-# Simulador Gemini V3 Reforma Sn
+# Demonstração — Simulação da reforma no Simples com IA
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de simulação da reforma no Simples com IA — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Simular a reforma para toda a carteira do Simples exigia ler extratos do PGDAS-D e classificar cada empresa.
